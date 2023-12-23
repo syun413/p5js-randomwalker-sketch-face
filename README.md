@@ -4,7 +4,7 @@
 This project utilizes p5.js and the Random Walker algorithm to create sketches of human faces. It combines image processing techniques with creative coding to present digital art in a unique way. The project includes a face image processed with the Canny algorithm for edge detection and a p5.js script to generate these images.
 
 ## Demo
-The demo is as folowing link: [Demo](https://syun413.github.io)
+The demo is as folowing link: [Demo](https://syun413.github.io/p5js-sketch-faces-demo/)
 ## File Structure
 - `teacher_edges.png` - Face image processed with the Canny algorithm for edge detection.
 - `index.html` - HTML file to run the project in a web browser.
