@@ -25,7 +25,7 @@ The demo is as folowing link: [Demo](https://syun413.github.io)
 2. Open Visual Studio Code and navigate to the cloned project folder.
 
 ### Running the Project
-1. You can change `teacher_edges.png` to your own photos by modifying `canny_algorithm.py`.
+1. You can get edged photo like `teacher_edges.png` for your own photos by modifying `canny_algorithm.py`.
    - Change the code in containing `image_path = '/mnt/data/teacher_grayscale.png'`to your own image path.
 2. Run the canny_algorithm.py to get the pictures after marginalization.
    ```bash
