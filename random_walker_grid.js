@@ -1,7 +1,7 @@
 let edgeImage;
 let walkers = [];
 let edgePoints = [];
-const numWalkers = 1000; // Increased number of walkers for faster drawing
+const numWalkers = 1100; // Increased number of walkers for faster drawing
 
 function preload() {
   edgeImage = loadImage('teacher_edges.png'); // Make sure the path is correct
